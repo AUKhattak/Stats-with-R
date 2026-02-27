@@ -5,6 +5,7 @@ This repository contains assignments for the statistics with R course.
 ## Challenges
 
 | Assignment | Practical Problem | Bonus Problem |
+|------------|-------------------|---------------|
 | 0 | Practical Problem | Bonus Problem |
 | 1 | Practical Problem 1 | Bonus Problem 1 |
 | 2 | Practical Problem 1 | Bonus Problem |
@@ -15,7 +16,6 @@ This repository contains assignments for the statistics with R course.
 | 7 | Practical Problem | Bonus Problem |
 | 8 | Practical Problem | Bonus Problem |
 | 9 | Practical Problem | Bonus Problem |
-| 10 | Practical Problem | Bonus Problem |
 | 11 | Practical Problem | Bonus Problem |
 
 **Solutions of R-code challanges are available in this repository.**
